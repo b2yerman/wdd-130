@@ -1,0 +1,38 @@
+body{
+    background-color: pink;
+    font-size: 100%;
+}
+main{
+    max-width: 725px;
+    margin: 0 auto;
+}
+.portrait{
+    max-width: 50%;
+    
+}
+h1{
+    font-size: 3em;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+section.top{
+    text-align: center;
+    color: white;
+}
+
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+li{
+    padding: 0.5em 0; /* top/ bottom  left/ right*/
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+figcaption{
+    text-align: center;
+}

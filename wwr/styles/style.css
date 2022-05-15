@@ -1,0 +1,54 @@
+body {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    text-align: center;
+    background-color: #606D5B
+  }
+
+header {
+    text-align: center; 
+    background-color:darkolivegreen 
+}
+nav a{
+    text-align: center; 
+    background-color: #86C88C
+   
+}
+nav a:hover{
+    text-align: center; 
+    color: black
+}
+h4{
+    text-align: center; 
+    background-color: #739E75
+}
+.book, .join{
+    text-align: center; 
+    color:bisque 
+}
+.msg h2{
+    text-align: center; 
+    color:green
+}
+.msg p{
+    text-align: center; 
+    color:#606D5B
+}
+footer h3{
+    text-align: center; 
+    color:#86C88C
+}
+footer a{
+    text-align: center; 
+    color:darkslategrey
+}
+footer a:hover{
+    text-align: center; 
+    color: forestgreen;
+}
+.logo{
+    text-align: center; 
+    width:80px;
+}

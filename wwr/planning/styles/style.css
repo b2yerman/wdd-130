@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+body {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 22px;
+    text-align: center;
+    background-color: #606D5B
+}
+
+footer div a {
+    text-decoration: none;
+}
+
+header {
+    text-align: left;
+    background-color: darkolivegreen;
+}
+
+nav a {
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    color: black
+}
+
+nav a:hover {
+    text-align: center;
+    color: forestgreen;
+}
+
+h4 {
+    text-align: center;
+}
+
+.book .join {
+    text-align: left;
+    color: darkslategray
+}
+
+.book:hover {
+    text-align: left;
+    color: forestgreen
+}
+
+.msg h2 {
+    text-align: center;
+    color: green
+}
+
+.msg p {
+    text-align: center;
+    color: #606D5B
+}
+
+footer h3 {
+    text-align: left;
+    color: #86C88C
+}
+
+footer a {
+    text-align: left;
+    color: darkslategrey
+}
+
+footer a:hover {
+    text-align: left;
+    color: forestgreen;
+}
+
+footer {
+    background-color: darkolivegreen;
+}
+
+.logo {
+    text-align: center;
+    width: 150px;
+}
+
+.social img {
+    width: 80px;
+    height: auto;
+}
+
+#hero-msg img {
+    width: 600px;
+    height: auto;
+    border: solid;
+    border-width: 5px;
+    border-color: darkgreen;
+}
+h1{
+    font-family: 'Macondo', 'Times New Roman', Times, serif;
+}
+#hero-box img {
+    width: 600px;
+    border: solid;
+    border-width: 5px;
+    border-color: darkgreen;
+}

@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+main{
+    flex: 1;
+    padding: 20px;
+}
+body {
+    display: flex;
+    flex-direction: column; 
+}
+
+header, footer{
+    padding: 20px;
+    background-color: coral;
+}
+.content {
+    max-width: 1000px;
+    min-width: 20px;
+    margin: 0 auto;
+}
